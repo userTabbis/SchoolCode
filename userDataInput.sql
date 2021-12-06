@@ -1,0 +1,10 @@
+INSERT INTO userData VALUES ('SuperN3rd' , 'Teeko' , 'Mastiff' , 'single' , '111111111' , '15' , null , '200' , '38' , 'weekly');
+INSERT INTO userData VALUES ('MegaCreep' , 'Genna' , 'Yuri' , 'single' , '222222222' , '18' , null , '350' ,  '34' ,'bi-weekly');
+INSERT INTO userData VALUES('Stargender' , 'Bella' , 'Igor' , 'married' , '333333333' , null , '55000' , '460' , '40' , 'monthly');
+INSERT INTO userData VALUES('BlueNCool' , 'Stefan' , 'McMannis' , 'married' , '444444444' , '25' , null , '500' , '58' , 'bi-weekly');
+INSERT INTO userData VALUES('CherryFever01' , 'Cain' , 'Ables' , 'single' , '555555555' , null , '61000' , '320' , '12' , 'monthly');
+INSERT INTO userData VALUES('HopeUDont' , 'Murry' , 'Willis' , 'married' , '666666666' , '22' , null , null , '29' , 'weekly');
+INSERT INTO userData VALUES('SrySrySry' , 'Ivan' , 'Boarinson' , 'married' , '777777777' , null , '76000' , null , '42' , 'annual');
+INSERT INTO userData VALUES('GoodbyeGuy' , 'Yuskae' , 'Edison' , 'single' , '888888888' , '23' , null , null , '60' , 'bi-weekly');
+INSERT INTO userData VALUES('BubbleSucka' , 'Raquan' , 'Tile' , 'single' , '999999999' , null , '131000' , null , '32' , 'annual');
+INSERT INTO userData VALUES('BasuraLife' , 'Sean' , 'Oshay' , 'single' , '000000000' , '19' , null , null , '39' , 'bi-weekly');
